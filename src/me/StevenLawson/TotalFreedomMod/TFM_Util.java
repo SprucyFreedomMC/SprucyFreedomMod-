@@ -71,9 +71,9 @@ public class TFM_Util
     public static final Map<String, EntityType> mobtypes = new HashMap<String, EntityType>();
     public static final List<String> DEVELOPERS = Arrays.asList("Madgeek1450", "DarthSalamon", "AcidicCyanide", "wild1145", "WickedGamingUK");
     public static final List<String> SFM_DEVELOPERS = Arrays.asList("Paldiu", "RobinGall2910", "Freelix2000", "PieGuy7896", "falceso", "_ItsNick_");
-    public static final List<String> WEB_DEVELOPERS = Arrays.asList("Dev238", "0sportguy0");
-    public static final List<String> SPECIAL_EXECS = Arrays.asList("aggelosQQ", "UltimaTheHawke", "_GeneralOfGames_", "zthehorsekid");
-    public static final List<String> SYS_ADMINS = Arrays.asList("lynxlps", "cowgomooo12", "Camzie99", "CrafterSmith12", "DarkLynx108", "dlg666999");
+    public static final List<String> WEB_DEVELOPERS = Arrays.asList();
+    public static final List<String> SPECIAL_EXECS = Arrays.asList();
+    public static final List<String> SYS_ADMINS = Arrays.asList("dlg666999");
     private static final Random RANDOM = new Random();
     public static String DATE_STORAGE_FORMAT = "EEE, d MMM yyyy HH:mm:ss Z";
     public static final Map<String, ChatColor> CHAT_COLOR_NAMES = new HashMap<String, ChatColor>();
