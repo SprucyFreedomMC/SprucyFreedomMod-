@@ -1,0 +1,8 @@
+name: SprucyFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: BETA
+description: Plugin for the SprucyFreedom server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials, DisguiseCraft, BarAPI, CoreProtect]
+authors: [Madgeek1450, DarthSalamon, Camzie99, xShadowing]
+
+# plugin.yml is no longer used to define commands.
